@@ -1,3 +1,3 @@
 # rn-demo-sample-app
 
-Cool
+Super cool
